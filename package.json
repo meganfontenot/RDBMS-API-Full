@@ -1,0 +1,11 @@
+{
+  "name": "RDBMS-API-Full",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/meganfontenot/RDBMS-API-Full.git",
+  "author": "Megan Fontenot",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
